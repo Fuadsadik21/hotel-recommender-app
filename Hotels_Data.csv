@@ -1,5 +1,4 @@
-Hotel,Free parking,Free Wi-Fi,Restaurant,"Free breakfast
-",Pool,Air-Conditioned,Spa,Rating_Normalized,Price_Normalized,Is_5_star,Is_4_star,Is_3_star,Is_2_star,Is_1_star,Is_Guest_House,Is_Bed_Breakfast,Is_hotel,Is_hostel,Is_lodge
+Hotel,Free parking,Free Wi-Fi,Restaurant,Free breakfast,Pool,Air-Conditioned,Spa,Rating_Normalized,Price_Normalized,Is_5_star,Is_4_star,Is_3_star,Is_2_star,Is_1_star,Is_Guest_House,Is_Bed_Breakfast,Is_hotel,Is_hostel,Is_lodge
 Daylin Guest House,1,1,0,1,0,1,0,0.9545454545,0.922851745,0,0,0,0,0,0,0,1,0,0
 Washington Hotel | Bole Atlas | ዋሽንግተን ሆቴል | ቦሌ አትላስ,0,0,0,0,0,0,0,0.3636363636,0.8503332157,0,1,0,0,0,0,0,0,0,0
 Hammer Luxury Guesthouse,1,1,0,1,0,0,1,0.9090909091,0.9120559719,0,0,0,0,0,0,1,0,0,0
