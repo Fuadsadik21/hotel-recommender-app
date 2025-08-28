@@ -10,7 +10,7 @@ A content-based recommendation system for hotels in Addis Ababa, built with Stre
 
 ## Live Demo
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-username-hotel-recommender-app.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://addis-hotel-recommender-app.streamlit.app/))
 
 ## Local Development
 
