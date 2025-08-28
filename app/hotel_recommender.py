@@ -21,7 +21,7 @@ st.markdown("Discover hotels similar to your preferences or find the perfect sta
 @st.cache_data
 def load_data():
     # URL to your CSV file (replace with your actual URL)
-    csv_url = "https://raw.githubusercontent.com/Fuadsadik21/hotel-recommender-app/refs/heads/main/Hotels_Data.csv"
+    csv_url = "https://github.com/Fuadsadik21/hotel-recommender-app/raw/refs/heads/main/data/Hotels_Data.csv"
     
     try:
         # Download the CSV file
@@ -283,4 +283,5 @@ st.markdown("This hotel recommendation system uses content-based filtering to su
 
 # Display column names for debugging
 st.sidebar.markdown("### Debug Info")
+
 st.sidebar.write("Columns in dataset:", df.columns.tolist())
